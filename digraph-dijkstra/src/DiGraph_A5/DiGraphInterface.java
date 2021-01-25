@@ -5,7 +5,7 @@ package DiGraph_A5;
  * Make your class and its methods public!
  * Don't modify this file!
  * Begin by creating a class that implements this interface.
- *
+ * test
 */
 
 public interface DiGraphInterface {
